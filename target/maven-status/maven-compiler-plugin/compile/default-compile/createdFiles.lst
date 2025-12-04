@@ -1,0 +1,16 @@
+com\example\studentapi\repository\UserRepository.class
+com\example\studentapi\entity\User.class
+com\example\studentapi\repository\StudentRepository.class
+com\example\studentapi\service\AuthService.class
+com\example\studentapi\service\StudentService.class
+com\example\studentapi\entity\AuthToken.class
+com\example\studentapi\entity\Course.class
+com\example\studentapi\entity\Role.class
+com\example\studentapi\Application.class
+com\example\studentapi\repository\TeacherRepository.class
+com\example\studentapi\dto\LoginResponse.class
+com\example\studentapi\entity\Teacher.class
+com\example\studentapi\dto\LoginRequest.class
+com\example\studentapi\entity\Student.class
+com\example\studentapi\repository\CourseRepository.class
+com\example\studentapi\repository\AuthTokenRepository.class
