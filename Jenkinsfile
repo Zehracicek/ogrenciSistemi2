@@ -4,7 +4,8 @@ pipeline {
         stage('Build & Test') {
             steps {
                 // Maven Wrapper ile test
-                sh './mvnw clean test'
+                sh 'mvn clean test'
+
             }
         }
 
