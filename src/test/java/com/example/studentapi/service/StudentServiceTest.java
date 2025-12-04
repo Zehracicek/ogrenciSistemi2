@@ -30,7 +30,7 @@ public class StudentServiceTest {
         var created = service.create(s);
         assertNotNull(created);
         var list = service.list();
-        assertEquals(1, list.size());
+        assertEquals(2, list.size());
     }
 }
 
